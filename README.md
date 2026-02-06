@@ -4,12 +4,5 @@ Erik Jacobo
 erikjacobodelgado@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+- p001-hola-mundo.py
 
-## Actividad 2
-- Programa 4
-- Programa 5
-
-## Actividad 3
