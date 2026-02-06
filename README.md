@@ -1,6 +1,7 @@
 # Computación Aplicada 
 
 Erik Jacobo
+erikjacobodelgado@gmail.com
 
 ## Actividad 1
 - Programa 1
@@ -10,3 +11,5 @@ Erik Jacobo
 ## Actividad 2
 - Programa 4
 - Programa 5
+
+## Actividad 3
