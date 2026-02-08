@@ -1,4 +1,4 @@
-# p003-area.triangulo.py
+# p003-area-triangulo.py
 # Calcular el area de un triangulo 
 
 print('Calculando el area de un triangulo:\n')
