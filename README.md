@@ -10,6 +10,6 @@ erikjacobodelgado@gmail.com
 - p004-paga-trabajador.py
 - p005-calculadora-imc-py
 - p006-conversor-temperatura.py
-- p007-entrada.multiple.py
-- p008-entrada-con.espacio.py
+- p007-entrada-multiple.py
+- p008-entrada-con-espacio.py
 
