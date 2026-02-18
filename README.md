@@ -47,3 +47,13 @@ erikjacobodelgado@gmail.com
 - p033-aceptar-estudiante-v2.py
 - p034-tipo-angulo.py
 - p035-tipo-triangulo.py
+
+## Tarea 2
+- p036-numeros-consecutivos.py
+- p037-numero-mayor.py
+- p038-dia-semana.py
+- p039-numeros-romanos.py
+- p040-calculo-notas.py
+- p041-aceptar-estudiante.py
+- p042-precio-entrada-cine.py
+- p043-calculadora-anio-bisiesto.py

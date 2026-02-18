@@ -7,7 +7,7 @@ print('Programa para calcular la fuerza, masa o aceleracion mediante la segunda 
 print('[ F ] Fuerza      f = m * a')
 print('[ M ] Masa        m = f / a')
 print('[ A ] Aceleracion a = f * m')
-op = input('Que opcion quieres?: ').upper()
+op = input('Que opcion quieres?: ').upper() ##upper convierte texto a mayusculas
 
 if op == 'F':
     print('Calculando la fuerza')
