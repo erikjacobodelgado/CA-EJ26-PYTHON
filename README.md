@@ -85,4 +85,8 @@ erikjacobodelgado@gmail.com
 - p063-numero-mayor.py
 - p064-verificar-palindromo.py
 
+## Programa de repaso parcial 1
+- p065-sistema-papeleria.py
+
+
 print("\033[H\033[J")

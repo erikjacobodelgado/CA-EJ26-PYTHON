@@ -15,9 +15,9 @@ while True:
         num = num // 10 
 
     if no == ni:
-        print(f"El numero {dig} si es palíndromo")
+        print("Si es palíndromo")
     else:
-        print(f"El numero {dig} no es palíndromo")
+        print("No es palíndromo")
         
     if input('\nDeseas continuar (S/N)?: ').upper() == 'N': break
 
