@@ -9,10 +9,10 @@ while True:
     no = num
     ni = 0
 
-    while num > 0: ##Ejemplo introduce 121
-        dig = num % 10 ## obtiene el ultimo numero 121/10=12 residuo 1, 12%10=2, 1%10=1
-        ni = ni * 10 + dig ## 121*10+1=1211, 1211*10+2=12112, 12112*10+1=121121
-        num = num // 10 ## elimina el ultimo numero 121/10=12, 12/10=1, 1/10=0 aquí termina el ciclo
+    while num > 0: 
+        dig = num % 10 
+        ni = ni * 10 + dig 
+        num = num // 10 
 
     if no == ni:
         print(f"El numero {dig} si es palíndromo")
