@@ -88,5 +88,7 @@ erikjacobodelgado@gmail.com
 ## Programa de repaso parcial 1
 - p065-sistema-papeleria.py
 
+## Primer examen parcial
+- p066-primer-examen-parcial.py
 
 print("\033[H\033[J")
