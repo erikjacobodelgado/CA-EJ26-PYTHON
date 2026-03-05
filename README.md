@@ -85,10 +85,21 @@ erikjacobodelgado@gmail.com
 - p063-numero-mayor.py
 - p064-verificar-palindromo.py
 
-## Programa de repaso parcial 1
+## Actividad 9 (Programa de repaso parcial 1)
 - p065-sistema-papeleria.py
 
 ## Primer examen parcial
 - p066-primer-examen-parcial.py
+
+## Actividad 10
+- p067-conteo-ascendente-for.py
+- p068-conteo-ascendente-fo-v2.py
+- p069-conteo-descendente-for.py
+- p070-conteo-descendente-for-v2.py
+- p071-arriba-abajo.py
+- p072-suma-pares-impares.py
+- p073-suma-promedio-numeros.py
+- p074-suma-multiplos.py
+- p075-cifrado-cesar.py
 
 print("\033[H\033[J")
