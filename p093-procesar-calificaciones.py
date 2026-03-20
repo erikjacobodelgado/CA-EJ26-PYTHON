@@ -29,6 +29,6 @@ print(f'El promedio es: {p}')
 for c in cals:
     if c > p: mp.append(c)
 
-print(f'Mayores al promedio: {len[mp]}:{mp}')
+print(f'Mayores al promedio: {len(mp)}:{mp}')
 print(f'Calificación más alta: {max(cals)}')
 print(f'Calificación más baja: {min(cals)}')
