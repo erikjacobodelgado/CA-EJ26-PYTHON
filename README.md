@@ -141,4 +141,12 @@ erikjacobodelgado@gmail.com
 - p103-ciudades.py
 - p104-lista-impares.py
 
+## Actividad 14
+- p105-datos-estudiante.py
+- p106-calificaciones-estudiante.py
+- p107-nombres-edades.py
+- p108-conversor-unidades.py
+- p109-conversion-divisas.py
+- p110-punto-de-venta.py
+
 print("\033[H\033[J")
