@@ -171,4 +171,7 @@ erikjacobodelgado@gmail.com
 - p123-conjunto-personas.py
 - p124-conjunt-numeros.py
 
+## Segundo examen parcial
+- p125-segundo-examen-parcial.py
+
 print("\033[H\033[J")
