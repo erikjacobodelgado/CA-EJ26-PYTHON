@@ -210,5 +210,10 @@ erikjacobodelgado@gmail.com
 - p154-calcula-factoriales.py
 - p155-estadisticas-basicas.py
 
+## Actividad 19
+- p156-empleado1.py
+- p157-empleado2.py
+- p158-circulo.py
+- p159-rectangulo.py
 
 print("\033[H\033[J")
