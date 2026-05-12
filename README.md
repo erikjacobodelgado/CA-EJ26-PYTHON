@@ -216,4 +216,8 @@ erikjacobodelgado@gmail.com
 - p158-circulo.py
 - p159-rectangulo.py
 
+## Actividad 20
+- p160-ventas.py
+
+
 print("\033[H\033[J")
